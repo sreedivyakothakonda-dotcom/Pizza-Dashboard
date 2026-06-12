@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing pizza sales performance across categories, sizes, and time periods.
 
-!([Dashboard Preview](https://github.com/sreedivyakothakonda-dotcom/Pizza-Dashboard/blob/main/Pizza%20Dashboard.png))
+![Dashboard Preview](https://github.com/sreedivyakothakonda-dotcom/Pizza-Dashboard/blob/main/Pizza%20Dashboard.png)
 
 ---
 
@@ -67,13 +67,4 @@ This dashboard provides a comprehensive view of pizza sales data, enabling quick
 - **XL and XXL** sizes contribute significantly to total revenue despite lower unit counts
 
 ---
-
-## 📁 Files
-
-```
-📦 pizza-sales-dashboard
- ┣ 📊 Pizza_Dashboard.pbix
- ┣ 📄 pizza_sales_data.csv
- ┗ 📸 pizza_dashboard.png
-```
 
