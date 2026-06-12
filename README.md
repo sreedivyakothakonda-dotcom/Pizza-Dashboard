@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing pizza sales performance across categories, sizes, and time periods.
 
-![Pizza Dashboard](pizza_dashboard.png)
+![Pizza Dashboard]([pizza_dashboard.png](https://github.com/sreedivyakothakonda-dotcom/Pizza-Dashboard/blob/main/Pizza%20Dashboard.png))
 
 ---
 
